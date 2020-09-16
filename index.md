@@ -26,6 +26,6 @@ So the conclusion is **UTF-16** is better for inter-machine communication, when 
 
 ***
 Source used:  
-[Unicode.org](http://www.unicode.org/faq/utf_bom.html)  
+[UTF FAQ on Unicode.org](http://www.unicode.org/faq/utf_bom.html)  
 [Article in Russian on Habr](https://habr.com/ru/post/377953/)  
 [Machine translated discussion of UTF-16](https://qastack.ru/software/102205/should-utf-16-be-considered-harmful)
