@@ -1,5 +1,5 @@
 # Difference between UTF-8 and UTF-16
-## And what is Unicode
+### And what is Unicode
 
 **UTF-8** and **UTF-16** are both text encodings, developed as a representation of the Unicode standard. 
 Text information is stored and transmitted as a sequence of bites and encodings serve to translate it to human languages.
